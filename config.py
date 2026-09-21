@@ -78,12 +78,9 @@ PLAN_LIMITS = {
 #  PAYMENT METHODS
 # ═══════════════════════════════════════════════════
 PAYMENT_METHODS = {
-    'bkash':   {'name': 'bKash',       'number': '01306633616',            'type': 'Send Money',       'icon': '🟪'},
-    'nagad':   {'name': 'Nagad',       'number': '01306633616',            'type': 'Send Money',       'icon': '🟧'},
-    'rocket':  {'name': 'Rocket',      'number': '01306633616',            'type': 'Send Money',       'icon': '🟦'},
-    'upay':    {'name': 'Upay',        'number': '01306633616',            'type': 'Send Money',       'icon': '🟩'},
-    'binance': {'name': 'Binance Pay', 'number': 'Binance ID: 758637628', 'type': 'Binance Pay/USDT', 'icon': '🟡'},
-    'bank':    {'name': 'Bank',        'number': 'Contact Admin',          'type': 'Transfer',         'icon': '🏦'},
+    'bkash':   {'name': 'bKash',       'number': '01833221665',            'type': 'Send Money',       'icon': '🟪'},
+    'nagad':   {'name': 'Nagad',       'number': '01833221665',            'type': 'Send Money',       'icon': '🟧'},
+    'binance': {'name': 'Binance Pay', 'number': 'Binance ID: 936118119', 'type': 'Binance Pay/USDT', 'icon': '🟡'},
 }
 
 # ═══════════════════════════════════════════════════
